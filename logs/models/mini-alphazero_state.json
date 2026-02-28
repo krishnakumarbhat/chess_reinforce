@@ -1,0 +1,13 @@
+{
+  "name": "Mini-AlphaZero",
+  "rating": 1460.47,
+  "exploration": 0.16549,
+  "unknown_rate": 0.0008,
+  "illegal_rate": 0.00082,
+  "wins": 48,
+  "draws": 103,
+  "losses": 47,
+  "illegal_moves": 0,
+  "unknown_moves": 0,
+  "games": 198
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NNUE",
+  "rating": 1460.717,
+  "exploration": 0.09929,
+  "unknown_rate": 0.0005,
+  "illegal_rate": 0.00044,
+  "wins": 45,
+  "draws": 104,
+  "losses": 49,
+  "illegal_moves": 0,
+  "unknown_moves": 0,
+  "games": 198
+}

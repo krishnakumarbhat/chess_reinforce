@@ -1,0 +1,13 @@
+{
+  "name": "GRPO Transformer",
+  "rating": 1498.813,
+  "exploration": 0.13239,
+  "unknown_rate": 0.001,
+  "illegal_rate": 0.00104,
+  "wins": 42,
+  "draws": 117,
+  "losses": 39,
+  "illegal_moves": 0,
+  "unknown_moves": 0,
+  "games": 198
+}

@@ -1,0 +1,3016 @@
+{
+  "timestamp": 1772292452,
+  "models": [
+    {
+      "name": "GRPO Transformer",
+      "games": 198,
+      "wins": 42,
+      "draws": 117,
+      "losses": 39,
+      "illegal_moves": 0,
+      "unknown_moves": 0,
+      "final_rating": 1498.813,
+      "exploration": 0.13239,
+      "unknown_rate": 0.001,
+      "illegal_rate": 0.00104
+    },
+    {
+      "name": "NNUE",
+      "games": 198,
+      "wins": 45,
+      "draws": 104,
+      "losses": 49,
+      "illegal_moves": 0,
+      "unknown_moves": 0,
+      "final_rating": 1460.717,
+      "exploration": 0.09929,
+      "unknown_rate": 0.0005,
+      "illegal_rate": 0.00044
+    },
+    {
+      "name": "Mini-AlphaZero",
+      "games": 198,
+      "wins": 48,
+      "draws": 103,
+      "losses": 47,
+      "illegal_moves": 0,
+      "unknown_moves": 0,
+      "final_rating": 1460.47,
+      "exploration": 0.16549,
+      "unknown_rate": 0.0008,
+      "illegal_rate": 0.00082
+    }
+  ],
+  "games": [
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 110,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 117,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 34,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 18,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 87,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 36,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 44,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 117,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 69,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 87,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 112,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 11,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 82,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 112,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 90,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 25,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 93,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 12,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 90,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 39,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 76,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 13,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 29,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 58,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 17,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 24,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 20,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 58,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 118,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 118,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 101,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 48,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 116,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 53,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 93,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 110,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 107,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 106,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 105,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 103,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 110,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 10,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 6,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 111,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 43,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 36,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 23,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 107,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 112,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 106,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 111,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 14,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 110,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 97,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 89,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 102,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 33,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 109,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 11,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 6,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 25,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 31,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 119,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 96,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 8,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 43,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 88,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 112,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 13,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 56,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 117,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 7,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 93,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 94,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 104,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 98,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 105,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 22,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 119,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 81,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 76,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 114,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 21,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 116,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "0-1",
+      "plies": 12,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 28,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 86,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "NNUE",
+      "result": "1/2-1/2",
+      "plies": 66,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "NNUE",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 112,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 8,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 113,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 32,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 20,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 117,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 116,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 26,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 100,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 112,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 113,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 107,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 99,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 29,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 118,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 14,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 43,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 89,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 86,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 89,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 118,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 25,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 5,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 116,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 42,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 21,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 33,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 94,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1-0",
+      "plies": 11,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 48,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 30,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 114,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 97,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 76,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1/2-1/2",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 77,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "1-0",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 99,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "GRPO Transformer",
+      "black": "Mini-AlphaZero",
+      "result": "0-1",
+      "plies": 120,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    },
+    {
+      "white": "Mini-AlphaZero",
+      "black": "GRPO Transformer",
+      "result": "1/2-1/2",
+      "plies": 115,
+      "white_unknown": 0,
+      "white_illegal": 0,
+      "black_unknown": 0,
+      "black_illegal": 0
+    }
+  ]
+}
